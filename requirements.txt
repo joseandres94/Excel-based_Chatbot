@@ -1,0 +1,10 @@
+# Dependencies
+pandas
+pydantic
+langchain
+langchain-community
+langchain_openai
+langchain_core
+openpyxl
+tabulate
+dotenv

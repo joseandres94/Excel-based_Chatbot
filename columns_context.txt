@@ -1,0 +1,19 @@
+"""The DataFrame `df` contains patient information and the results from analyzing samples of their brain tissue. It includes the following sheets:
+**`Overview`**: The main sheet with a summary of the patients’ information.
+**`Microglia and plaques`**: Sheet containing the count of microglia cells and plaques.
+
+
+The **`Overview`** sheet includes the following columns:
+'Col1' (int64): Description for column 1.
+'Col2' (datetime64): Description for column 2.
+'Col3 ' (datetime): Description for column 3.
+'Col4' (string): Description for column 4.
+
+
+The **`Microglia and plaques`** sheet includes the following columns:
+'Col1' (int64): Description for column 1.
+'Col2' (datetime64): Description for column 2.
+'Col3 ' (datetime): Description for column 3.
+'Col4' (string): Description for column 4.
+
+"""
